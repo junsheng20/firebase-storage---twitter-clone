@@ -108,6 +108,9 @@ export default function AuthPage() {
             <Button className="rounded-pill" variant="outline-dark">
               <i className="bi bi-facebook"></i> Sign up with Facebook(new)
             </Button>
+            <Button className="rounded-pill" variant="outline-dark">
+              <i className="bi bi-facebook"></i> Sign up with Facebook(new2)
+            </Button>
             <Button
               className="rounded-pill"
               variant="outline-dark"
